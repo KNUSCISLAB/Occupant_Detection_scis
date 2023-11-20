@@ -63,4 +63,4 @@ year={2023}
 For questions or support, feel free to reach out to us:
 
 - Abdullahi Yahaya (yahaya@knu.ac.kr)
-- Dongjun Suh (dongjunsuh@knu.ac.kr)
+- Dongjun Suh (dongjunsuh@knu.ac.kr)*
