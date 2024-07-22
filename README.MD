@@ -49,18 +49,10 @@ If you find our work useful in your research or wish to refer it please use the 
 @article{yahaya2019occupancy,
 title={Occupancy estimation using a probabilistic neural network},
 author={Abdullahi Yahaya, Abdulhameed Babatunde Owolabi, Dongjun Suh*},
-journal={Journal of Energy & Enviroment},
+journal={Journal of Building & Enviroment},
 year={2023}
 }
 ```
 
 ## Dataset Reference
-[33] L. M. Candanedo and V. Feldheim, ‘Accurate occupancy detection of an office room from light, temperature, humidity and CO 2 measurements using statistical learning models’, Energy and Buildings, vol. 112, pp. 28–39, Jan. 2016, doi: 10.1016/j.enbuild.2015.11.071.
-
-
-## Contact
-
-For questions or support, feel free to reach out to us:
-
-- Abdullahi Yahaya (yahaya@knu.ac.kr)
-- Dongjun Suh (dongjunsuh@knu.ac.kr)*
+[41] L. M. Candanedo and V. Feldheim, ‘Accurate occupancy detection of an office room from light, temperature, humidity and CO 2 measurements using statistical learning models’, Energy and Buildings, vol. 112, pp. 28–39, Jan. 2016, doi: 10.1016/j.enbuild.2015.11.071.
