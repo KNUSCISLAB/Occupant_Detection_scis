@@ -46,13 +46,9 @@ The algorithms trained and tested on this project include:
 If you find our work useful in your research or wish to refer it please use the following BibTeX entry.
 
 ```bibtex
-@article{yahaya2019occupancy,
-title={Occupancy estimation using a probabilistic neural network},
+title={Enhancing Building Energy through Regularized Bayesian Neural Networks for Precise Occupancy Detection},
 author={Abdullahi Yahaya, Abdulhameed Babatunde Owolabi, Dongjun Suh*},
-journal={Journal of Building & Enviroment},
-year={2023}
+journal={Journal of Building Engineering},
+year={2025}
 }
 ```
-
-## Dataset Reference
-[41] L. M. Candanedo and V. Feldheim, ‘Accurate occupancy detection of an office room from light, temperature, humidity and CO 2 measurements using statistical learning models’, Energy and Buildings, vol. 112, pp. 28–39, Jan. 2016, doi: 10.1016/j.enbuild.2015.11.071.
