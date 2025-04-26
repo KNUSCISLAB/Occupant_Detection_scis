@@ -24,7 +24,7 @@ pip install -r requirements.pip
 
 ## Project Structure
 
-- `dataset`: Utilizing open-access data from an office building experiment encompassing occupancy profiles, electricity consumption, and indoor environmental data [33]. This folder entails all the data required to replicate the notebooks.
+- `Dataset`: Utilizing open-access data from an office building experiment encompassing occupancy profiles, electricity consumption, and indoor environmental data [33]. This folder entails all the data required to replicate the notebooks.
 
 - `GUI`: Contains the code for the web application, which can also be accessed at [scis_occupancy](https://scisoccupancy.streamlit.app/) and [Occupant Detector](https://huggingface.co/spaces/Allmen/Occupancy-Detection).
 - `Figures`: Contains the images from this research.
@@ -42,8 +42,7 @@ The algorithms trained and tested on this project include:
 - PBR-BNN
 
 ## Citation
-
-If you find our work useful in your research or wish to refer it please use the following BibTeX entry.
+If you find our work useful in your research or wish to refer it please use the following.
 
 ```bibtex
 @article{Yahaya2025,
